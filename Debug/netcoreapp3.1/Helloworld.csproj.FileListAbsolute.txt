@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\HP\source\repos\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\HP\source\repos\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache
